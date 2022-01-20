@@ -1,0 +1,122 @@
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+    .social-area {
+        max-width: 450px;
+        padding-top: 14px;
+    }
+    .inner-menu {
+        background: none;
+        min-height: auto;
+    }
+    .inner-menu::after {
+        background: none;
+    }
+    .mean-container .mean-nav {
+        margin-top: 0;
+        width: 80%;
+    }
+    .inner-header {
+        padding: 20px 0;
+    }
+    #slider-area {
+        margin-top: 0;
+    }
+    #hero-area h2 {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+    .mini-menu {
+        width: 100%;
+
+        
+        margin-bottom: 10px;
+    }
+    .mini-menu ul {
+        text-align: center;
+    }
+
+    .mini-menu ul li {
+        margin-right: 5px;
+    }
+
+    .search-area {
+        float: none;
+        width: 250px;
+        margin: 0 auto;
+    }
+
+    .logo-area {
+        float: none;
+        width: 250px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .social-area{
+        float: none;
+        width: 250px;
+        
+        margin: 0 auto;
+    }
+    .social-area ul {
+      
+        text-align: center;
+    }
+    .social-area ul li {
+        margin: 0 5px;
+    }
+    #hero-area h2 {
+        font-size: 35px;
+        
+    }
+    #hero-area  {
+        padding-bottom: 15px;
+        
+    }
+#work-area{
+    padding: 10px 0;
+}
+
+.child-work {
+    width: 98%;
+    margin-top: 10px;
+}
+.child-footer {
+    width: 98%;
+   
+}
+.child-footer input {
+    display: block;
+}
+.child-footer input[type="submit"] {
+    display: block;
+}
+
+.left-copyright {
+    text-align: center;
+    width: 100%;
+}
+
+.right-copyright {
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
